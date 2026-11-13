@@ -1,0 +1,250 @@
+[
+ {
+  "id": "HIS-001",
+  "subject": "historia",
+  "topic": "Historia de Chile",
+  "difficulty": "easy",
+  "question": "La Primera Junta Nacional de Gobierno de 1810 se considera el inicio de:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "la Guerra del Pacífico."
+   },
+   {
+    "id": "B",
+    "text": "la ocupación de la Araucanía."
+   },
+   {
+    "id": "C",
+    "text": "la Constitución de 1925."
+   },
+   {
+    "id": "D",
+    "text": "el proceso de Independencia de Chile."
+   }
+  ],
+  "correctAnswer": "D",
+  "explanation": "La Junta de 1810 abrió el proceso de independencia respecto de la monarquía española.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-002",
+  "subject": "historia",
+  "topic": "Historia de Chile",
+  "difficulty": "medium",
+  "question": "Una de las características de la Constitución chilena de 1925 fue:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "la separación entre la Iglesia y el Estado y un régimen presidencial."
+   },
+   {
+    "id": "B",
+    "text": "el establecimiento de una monarquía constitucional."
+   },
+   {
+    "id": "C",
+    "text": "el voto exclusivo para propietarios."
+   },
+   {
+    "id": "D",
+    "text": "la creación de un régimen parlamentario permanente."
+   }
+  ],
+  "correctAnswer": "A",
+  "explanation": "La Constitución de 1925 separó Iglesia y Estado y reforzó el presidencialismo.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-003",
+  "subject": "historia",
+  "topic": "Historia universal",
+  "difficulty": "easy",
+  "question": "La Revolución Francesa de 1789 difundió principalmente las ideas de:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "derecho divino de los reyes."
+   },
+   {
+    "id": "B",
+    "text": "libertad, igualdad y soberanía popular."
+   },
+   {
+    "id": "C",
+    "text": "mercantilismo estatal."
+   },
+   {
+    "id": "D",
+    "text": "servidumbre feudal."
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "La Declaración de los Derechos del Hombre y del Ciudadano expresó libertad, igualdad y soberanía popular.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-004",
+  "subject": "historia",
+  "topic": "Historia universal",
+  "difficulty": "easy",
+  "question": "La Guerra Fría se caracterizó por la rivalidad entre:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Alemania y Japón."
+   },
+   {
+    "id": "B",
+    "text": "China y la India."
+   },
+   {
+    "id": "C",
+    "text": "Gran Bretaña y Francia."
+   },
+   {
+    "id": "D",
+    "text": "Estados Unidos y la Unión Soviética, sin guerra directa entre ambos."
+   }
+  ],
+  "correctAnswer": "D",
+  "explanation": "Fue una disputa ideológica, económica y militar entre dos bloques, sin enfrentamiento directo entre las superpotencias.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-005",
+  "subject": "historia",
+  "topic": "Formación ciudadana",
+  "difficulty": "easy",
+  "question": "Una función del Poder Legislativo en Chile es:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "juzgar causas civiles."
+   },
+   {
+    "id": "B",
+    "text": "dirigir las Fuerzas Armadas."
+   },
+   {
+    "id": "C",
+    "text": "elaborar y aprobar leyes."
+   },
+   {
+    "id": "D",
+    "text": "administrar los municipios."
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "El Congreso (Cámara de Diputados y Senado) participa en la formación de las leyes.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-006",
+  "subject": "historia",
+  "topic": "Sistema económico",
+  "difficulty": "medium",
+  "question": "Si aumenta la demanda de un bien y su oferta se mantiene constante, lo esperable es que su precio:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "tienda a bajar."
+   },
+   {
+    "id": "B",
+    "text": "tienda a subir."
+   },
+   {
+    "id": "C",
+    "text": "permanezca siempre igual."
+   },
+   {
+    "id": "D",
+    "text": "sea fijado por la oferta únicamente."
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Mayor demanda con oferta constante genera escasez relativa y presiona el precio al alza.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-007",
+  "subject": "historia",
+  "topic": "Pensamiento espacial",
+  "difficulty": "medium",
+  "question": "En un mapa a escala 1:50.000, 2 cm de distancia representan en la realidad:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "100 m."
+   },
+   {
+    "id": "B",
+    "text": "10 km."
+   },
+   {
+    "id": "C",
+    "text": "1 km."
+   },
+   {
+    "id": "D",
+    "text": "2 km."
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "2 cm · 50.000 = 100.000 cm = 1.000 m = 1 km.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "HIS-008",
+  "subject": "historia",
+  "topic": "Análisis de fuentes",
+  "difficulty": "easy",
+  "question": "Una carta escrita por un testigo directo de un acontecimiento es una fuente:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "secundaria."
+   },
+   {
+    "id": "B",
+    "text": "primaria."
+   },
+   {
+    "id": "C",
+    "text": "terciaria."
+   },
+   {
+    "id": "D",
+    "text": "bibliográfica."
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Las fuentes primarias provienen de quienes vivieron o presenciaron los hechos.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ }
+]

@@ -1,0 +1,194 @@
+[
+ {
+  "id": "LEC-001",
+  "subject": "lectora",
+  "topic": "Idea principal",
+  "difficulty": "easy",
+  "question": "¿Cuál es la idea principal del texto?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Las ciclovías eliminan la congestión de las ciudades."
+   },
+   {
+    "id": "B",
+    "text": "Los ciclistas prefieren calles sin ciclovías."
+   },
+   {
+    "id": "C",
+    "text": "Las ciclovías funcionan mejor cuando forman una red continua."
+   },
+   {
+    "id": "D",
+    "text": "Los urbanistas rechazan construir ciclovías."
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "El texto plantea que la infraestructura no basta si no es continua, y recomienda redes conectadas.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026",
+  "passage": "En las últimas décadas, muchas ciudades han incorporado ciclovías para reducir la congestión vehicular. Sin embargo, los estudios muestran que la infraestructura por sí sola no basta: cuando las ciclovías no forman una red continua, los usuarios las evitan por inseguridad. Por ello, los urbanistas recomiendan planificar rutas conectadas antes que construir tramos aislados."
+ },
+ {
+  "id": "LEC-002",
+  "subject": "lectora",
+  "topic": "Inferencias",
+  "difficulty": "medium",
+  "question": "Del texto se infiere que un tramo de ciclovía aislado probablemente:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "será muy usado por su cercanía."
+   },
+   {
+    "id": "B",
+    "text": "sea poco utilizado por la sensación de inseguridad."
+   },
+   {
+    "id": "C",
+    "text": "reduzca por sí solo la congestión."
+   },
+   {
+    "id": "D",
+    "text": "sea preferido por los urbanistas."
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "El texto dice que sin continuidad los usuarios evitan las ciclovías por inseguridad.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026",
+  "passage": "En las últimas décadas, muchas ciudades han incorporado ciclovías para reducir la congestión vehicular. Sin embargo, los estudios muestran que la infraestructura por sí sola no basta: cuando las ciclovías no forman una red continua, los usuarios las evitan por inseguridad. Por ello, los urbanistas recomiendan planificar rutas conectadas antes que construir tramos aislados."
+ },
+ {
+  "id": "LEC-003",
+  "subject": "lectora",
+  "topic": "Vocabulario en contexto",
+  "difficulty": "easy",
+  "question": "En el texto, la expresión «no basta» puede reemplazarse por:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "no es suficiente."
+   },
+   {
+    "id": "B",
+    "text": "no es necesaria."
+   },
+   {
+    "id": "C",
+    "text": "no es segura."
+   },
+   {
+    "id": "D",
+    "text": "no es costosa."
+   }
+  ],
+  "correctAnswer": "A",
+  "explanation": "«Basta» significa ser suficiente; «no basta» equivale a «no es suficiente».",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026",
+  "passage": "En las últimas décadas, muchas ciudades han incorporado ciclovías para reducir la congestión vehicular. Sin embargo, los estudios muestran que la infraestructura por sí sola no basta: cuando las ciclovías no forman una red continua, los usuarios las evitan por inseguridad. Por ello, los urbanistas recomiendan planificar rutas conectadas antes que construir tramos aislados."
+ },
+ {
+  "id": "LEC-004",
+  "subject": "lectora",
+  "topic": "Argumentación",
+  "difficulty": "medium",
+  "question": "¿Cuál es la tesis del texto?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "El celular debe prohibirse también fuera del aula."
+   },
+   {
+    "id": "B",
+    "text": "La autonomía estudiantil es el valor más importante."
+   },
+   {
+    "id": "C",
+    "text": "Es razonable regular el celular en clases para proteger la atención."
+   },
+   {
+    "id": "D",
+    "text": "El celular apagado mejora la concentración."
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "La conclusión («Por lo tanto…») sostiene una regulación razonable que protege el aprendizaje.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026",
+  "passage": "Algunos sostienen que limitar el uso del celular en las salas de clases vulnera la autonomía de los estudiantes. Sin embargo, la evidencia sugiere que la mera presencia del dispositivo disminuye la atención, incluso cuando está apagado sobre el escritorio. Por lo tanto, una regulación razonable protege el aprendizaje sin impedir el acceso fuera del aula."
+ },
+ {
+  "id": "LEC-005",
+  "subject": "lectora",
+  "topic": "Estructura textual",
+  "difficulty": "medium",
+  "question": "La expresión «Sin embargo» cumple la función de:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "concluir el razonamiento."
+   },
+   {
+    "id": "B",
+    "text": "ejemplificar una idea anterior."
+   },
+   {
+    "id": "C",
+    "text": "repetir la postura inicial."
+   },
+   {
+    "id": "D",
+    "text": "introducir un argumento que contrasta con la postura inicial."
+   }
+  ],
+  "correctAnswer": "D",
+  "explanation": "Es un conector adversativo: opone la evidencia a la objeción mencionada antes.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026",
+  "passage": "Algunos sostienen que limitar el uso del celular en las salas de clases vulnera la autonomía de los estudiantes. Sin embargo, la evidencia sugiere que la mera presencia del dispositivo disminuye la atención, incluso cuando está apagado sobre el escritorio. Por lo tanto, una regulación razonable protege el aprendizaje sin impedir el acceso fuera del aula."
+ },
+ {
+  "id": "LEC-006",
+  "subject": "lectora",
+  "topic": "Evaluación de la información",
+  "difficulty": "medium",
+  "question": "¿Cuál de las siguientes afirmaciones contradice lo planteado en el texto?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "El celular apagado sobre el escritorio no afecta la atención."
+   },
+   {
+    "id": "B",
+    "text": "La evidencia sugiere que el celular reduce la atención."
+   },
+   {
+    "id": "C",
+    "text": "Algunos consideran que limitar el celular afecta la autonomía."
+   },
+   {
+    "id": "D",
+    "text": "La regulación no impide el acceso fuera del aula."
+   }
+  ],
+  "correctAnswer": "A",
+  "explanation": "El texto afirma que la mera presencia del dispositivo disminuye la atención aunque esté apagado.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026",
+  "passage": "Algunos sostienen que limitar el uso del celular en las salas de clases vulnera la autonomía de los estudiantes. Sin embargo, la evidencia sugiere que la mera presencia del dispositivo disminuye la atención, incluso cuando está apagado sobre el escritorio. Por lo tanto, una regulación razonable protege el aprendizaje sin impedir el acceso fuera del aula."
+ }
+]

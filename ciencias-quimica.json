@@ -1,0 +1,95 @@
+[
+ {
+  "id": "QUI-001",
+  "subject": "ciencias",
+  "topic": "Química",
+  "difficulty": "easy",
+  "question": "Un átomo neutro tiene 8 protones. ¿Cuántos electrones tiene?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "16"
+   },
+   {
+    "id": "B",
+    "text": "8"
+   },
+   {
+    "id": "C",
+    "text": "4"
+   },
+   {
+    "id": "D",
+    "text": "0"
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "En un átomo neutro, electrones = protones = 8.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "QUI-002",
+  "subject": "ciencias",
+  "topic": "Química",
+  "difficulty": "medium",
+  "question": "¿Cuál es el pH de una solución cuya concentración de iones H⁺ es 1×10⁻³ M?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "11"
+   },
+   {
+    "id": "B",
+    "text": "−3"
+   },
+   {
+    "id": "C",
+    "text": "3"
+   },
+   {
+    "id": "D",
+    "text": "7"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "pH = −log[H⁺] = 3.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "QUI-003",
+  "subject": "ciencias",
+  "topic": "Química",
+  "difficulty": "medium",
+  "question": "Considerando H = 1 g/mol y O = 16 g/mol, la masa molar del agua (H₂O) es:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "16 g/mol"
+   },
+   {
+    "id": "B",
+    "text": "17 g/mol"
+   },
+   {
+    "id": "C",
+    "text": "34 g/mol"
+   },
+   {
+    "id": "D",
+    "text": "18 g/mol"
+   }
+  ],
+  "correctAnswer": "D",
+  "explanation": "2·1 + 16 = 18 g/mol.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ }
+]

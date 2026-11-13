@@ -1,0 +1,508 @@
+[
+ {
+  "id": "CIE-BIO-F1-001",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "¿Cuál de los siguientes tipos de organismos corresponde un eucarionte con célula vegetal?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Protozoo"
+   },
+   {
+    "id": "B",
+    "text": "Archaea"
+   },
+   {
+    "id": "C",
+    "text": "Bacteria"
+   },
+   {
+    "id": "D",
+    "text": "Hongo"
+   },
+   {
+    "id": "E",
+    "text": "Alga"
+   }
+  ],
+  "correctAnswer": "E",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 1; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-002",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "¿Qué estructura participa directamente formación de fosfolípidos?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Ribosoma"
+   },
+   {
+    "id": "B",
+    "text": "Lisosoma"
+   },
+   {
+    "id": "C",
+    "text": "Peroxisoma"
+   },
+   {
+    "id": "D",
+    "text": "Retículo endoplasmático liso"
+   },
+   {
+    "id": "E",
+    "text": "Aparato de Golgi"
+   }
+  ],
+  "correctAnswer": "D",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 2; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-003",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "Al marcar radioactivamente aminoácidos que forman proteínas de membrana, será posible encontrarlos en: I. RER II. Golgi III. Membrana",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Solo I"
+   },
+   {
+    "id": "B",
+    "text": "Solo II"
+   },
+   {
+    "id": "C",
+    "text": "Solo I y II"
+   },
+   {
+    "id": "D",
+    "text": "Solo II y III"
+   },
+   {
+    "id": "E",
+    "text": "I, II y III"
+   }
+  ],
+  "correctAnswer": "E",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 3; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-005",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "Al revisar células musculares esqueléticas bajo microscopio, es posible notar las siguientes características, excepto:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Polaridad propia de células epiteliales."
+   },
+   {
+    "id": "B",
+    "text": "Células polinucleadas."
+   },
+   {
+    "id": "C",
+    "text": "Sincicios (células de gran tamaño que no realizan citodiéresis)."
+   },
+   {
+    "id": "D",
+    "text": "Apariencia de estrías a causa de citoesqueleto (actina y miosina)."
+   },
+   {
+    "id": "E",
+    "text": "Modificación del REL en comparación a otras células."
+   }
+  ],
+  "correctAnswer": "A",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 5; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-006",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "Para evaluar el comportamiento de la glicemia, se hace un examen de tolerancia a la glucosa, donde se consume una cantidad de glucosa vía de oral en ayunas. Para esto, primeramente, se hace un examen de glicemia basal. Al respecto, es correcto decir que: I. Es necesario tener una glicemia basal sobre 200 mg/dl para tomarse el examen. II. Posterior a la ingesta, en una persona sana, se espera la acción del glucagón. III. Para que disminuya la glicemia post carga, debe aumentar la captura celular de glucosa.",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Solo I"
+   },
+   {
+    "id": "B",
+    "text": "Solo II"
+   },
+   {
+    "id": "C",
+    "text": "Solo III"
+   },
+   {
+    "id": "D",
+    "text": "Solo I y II"
+   },
+   {
+    "id": "E",
+    "text": "Solo II y III"
+   }
+  ],
+  "correctAnswer": "C",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 6; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-008",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "¿Cuál(es) de las siguientes opciones es una medida de prevención para las enfermedades de transmisión sexual? I. Uso correcto del condón. II. La baja frecuencia de relaciones sexuales. III. Las relaciones sexuales sin coito.",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Sólo I"
+   },
+   {
+    "id": "B",
+    "text": "Sólo II"
+   },
+   {
+    "id": "C",
+    "text": "Sólo I y II"
+   },
+   {
+    "id": "D",
+    "text": "Sólo I y III"
+   },
+   {
+    "id": "E",
+    "text": "I, II y III"
+   }
+  ],
+  "correctAnswer": "A",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 8; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-011",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "¿Cuántas cromátidas autosómicas presenta un espermatozoide?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "22"
+   },
+   {
+    "id": "B",
+    "text": "23"
+   },
+   {
+    "id": "C",
+    "text": "44"
+   },
+   {
+    "id": "D",
+    "text": "46"
+   },
+   {
+    "id": "E",
+    "text": "92"
+   }
+  ],
+  "correctAnswer": "A",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 11; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-012",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "Un individuo varón presenta un síndrome genético asociado a sus cromosomas sexuales, producto del cual tiene algunas características sexuales femeninas, como ginecomastia, además de testículos pequeños. Este joven probablemente tiene: I. Síndrome de Turner II. Síndrome de Klinefelter III. Trisomía 21",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Solo I"
+   },
+   {
+    "id": "B",
+    "text": "Solo II"
+   },
+   {
+    "id": "C",
+    "text": "Solo III"
+   },
+   {
+    "id": "D",
+    "text": "Solo I y III"
+   },
+   {
+    "id": "E",
+    "text": "Solo II y III"
+   }
+  ],
+  "correctAnswer": "B",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 12; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-013",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "Los pigmentos fotosintéticos utilizados en la fase clara de la fotosíntesis de las plantas se ubican en:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "el citoplasma de la célula vegetal"
+   },
+   {
+    "id": "B",
+    "text": "el estroma del cloroplasto"
+   },
+   {
+    "id": "C",
+    "text": "la membrana de cloroplastos"
+   },
+   {
+    "id": "D",
+    "text": "las proteínas del RER"
+   },
+   {
+    "id": "E",
+    "text": "los tilacoides"
+   }
+  ],
+  "correctAnswer": "E",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 13; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-014",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "Si una población habita en un ambiente con disponibilidad limitada de recursos sin presencia de depredadores, su crecimiento será:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "logarítmico"
+   },
+   {
+    "id": "B",
+    "text": "sigmoídeo"
+   },
+   {
+    "id": "C",
+    "text": "exponencial"
+   },
+   {
+    "id": "D",
+    "text": "lineal"
+   },
+   {
+    "id": "E",
+    "text": "estacionario"
+   }
+  ],
+  "correctAnswer": "B",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 14; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-015",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "¿Cuáles de los siguientes procedimientos permitirían determinar la interacción entre dos especies de plantas si se sospecha entre mutualismo facultativo, mutualismo obligado y comensalismo? I. Someter a ejemplares de ambas especies a vivir juntas para evaluar si la interacción es positiva para alguna de las especies. II. Después de haber sometido a vivir juntas a las especies, separarlas para ver cuál o cuáles son afectadas negativamente y en qué nivel. III. Ingresar otra especie a vivir junto a las otras dos para ver su efecto en la interacción.",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Sólo I"
+   },
+   {
+    "id": "B",
+    "text": "Sólo II"
+   },
+   {
+    "id": "C",
+    "text": "Sólo III"
+   },
+   {
+    "id": "D",
+    "text": "Sólo I y II"
+   },
+   {
+    "id": "E",
+    "text": "Sólo II y III"
+   }
+  ],
+  "correctAnswer": "B",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 15; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "CIE-BIO-F1-016",
+  "subject": "ciencias",
+  "topic": "Biología común",
+  "subtopic": "Ensayo General Filadd #1",
+  "difficulty": "medium",
+  "question": "¿Qué sucede con la mayor proporción de la energía radiante del sol que llega a un ecosistema?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "se disipa en forma de calor"
+   },
+   {
+    "id": "B",
+    "text": "se amplifica en las tramas tróficas"
+   },
+   {
+    "id": "C",
+    "text": "se almacena en los depredadores tope"
+   },
+   {
+    "id": "D",
+    "text": "se almacena en los descomponedores"
+   },
+   {
+    "id": "E",
+    "text": "se pierde luego de ingresar a los productores"
+   }
+  ],
+  "correctAnswer": "A",
+  "source": "external",
+  "sourceDetail": "Ensayo PDT de Ciencias Filadd (1° Ensayo General), pregunta 16; clave del solucionario",
+  "admissionYear": 2022,
+  "tags": [
+   "biologia"
+  ]
+ },
+ {
+  "id": "BIO-001",
+  "subject": "ciencias",
+  "topic": "Biología",
+  "difficulty": "easy",
+  "question": "¿Qué organelo de la célula eucarionte es el principal responsable de la respiración celular?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Ribosoma"
+   },
+   {
+    "id": "B",
+    "text": "Mitocondria"
+   },
+   {
+    "id": "C",
+    "text": "Aparato de Golgi"
+   },
+   {
+    "id": "D",
+    "text": "Lisosoma"
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "La mitocondria produce la mayor parte del ATP mediante respiración celular.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "BIO-002",
+  "subject": "ciencias",
+  "topic": "Biología",
+  "difficulty": "medium",
+  "question": "En el cruce de dos individuos heterocigotos (Aa × Aa), ¿qué probabilidad hay de un descendiente aa?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "25%"
+   },
+   {
+    "id": "B",
+    "text": "50%"
+   },
+   {
+    "id": "C",
+    "text": "75%"
+   },
+   {
+    "id": "D",
+    "text": "100%"
+   }
+  ],
+  "correctAnswer": "A",
+  "explanation": "Cuadro de Punnett: AA, Aa, Aa, aa → 1/4 = 25%.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ }
+]

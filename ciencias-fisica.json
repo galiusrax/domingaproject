@@ -1,0 +1,95 @@
+[
+ {
+  "id": "FIS-001",
+  "subject": "ciencias",
+  "topic": "Física",
+  "difficulty": "easy",
+  "question": "Un móvil recorre 120 m en 20 s con velocidad constante. ¿Cuál es su rapidez?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "0,17 m/s"
+   },
+   {
+    "id": "B",
+    "text": "100 m/s"
+   },
+   {
+    "id": "C",
+    "text": "6 m/s"
+   },
+   {
+    "id": "D",
+    "text": "2.400 m/s"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "v = d/t = 120/20 = 6 m/s.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "FIS-002",
+  "subject": "ciencias",
+  "topic": "Física",
+  "difficulty": "medium",
+  "question": "Sobre un cuerpo de 2 kg actúa una fuerza neta de 10 N. ¿Cuál es su aceleración?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "20 m/s²"
+   },
+   {
+    "id": "B",
+    "text": "5 m/s²"
+   },
+   {
+    "id": "C",
+    "text": "12 m/s²"
+   },
+   {
+    "id": "D",
+    "text": "0,2 m/s²"
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Segunda ley de Newton: a = F/m = 10/2 = 5 m/s².",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "FIS-003",
+  "subject": "ciencias",
+  "topic": "Física",
+  "difficulty": "medium",
+  "question": "¿Cuál es la energía cinética de un cuerpo de 2 kg que se mueve a 3 m/s?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "6 J"
+   },
+   {
+    "id": "B",
+    "text": "18 J"
+   },
+   {
+    "id": "C",
+    "text": "9 J"
+   },
+   {
+    "id": "D",
+    "text": "3 J"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "Ec = ½·m·v² = ½·2·9 = 9 J.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ }
+]

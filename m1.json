@@ -1,0 +1,312 @@
+[
+ {
+  "id": "M1-001",
+  "subject": "m1",
+  "topic": "Números",
+  "difficulty": "easy",
+  "question": "¿Cuál es el resultado de 3/4 + 5/6?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "8/10"
+   },
+   {
+    "id": "B",
+    "text": "19/12"
+   },
+   {
+    "id": "C",
+    "text": "15/24"
+   },
+   {
+    "id": "D",
+    "text": "4/5"
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "Denominador común 12: 9/12 + 10/12 = 19/12.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-002",
+  "subject": "m1",
+  "topic": "Números",
+  "difficulty": "medium",
+  "question": "Un artículo de $20.000 tiene 15% de descuento y luego, sobre el precio rebajado, otro 10%. ¿Cuál es el precio final?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "$15.000"
+   },
+   {
+    "id": "B",
+    "text": "$15.300"
+   },
+   {
+    "id": "C",
+    "text": "$15.500"
+   },
+   {
+    "id": "D",
+    "text": "$14.000"
+   }
+  ],
+  "correctAnswer": "B",
+  "explanation": "20.000·0,85 = 17.000; 17.000·0,90 = 15.300. Los descuentos sucesivos no se suman.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-003",
+  "subject": "m1",
+  "topic": "Álgebra y funciones",
+  "difficulty": "easy",
+  "question": "Si 3x − 7 = 11, ¿cuánto vale x?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "4"
+   },
+   {
+    "id": "B",
+    "text": "5"
+   },
+   {
+    "id": "C",
+    "text": "6"
+   },
+   {
+    "id": "D",
+    "text": "18"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "3x = 18, luego x = 6.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-004",
+  "subject": "m1",
+  "topic": "Álgebra y funciones",
+  "difficulty": "medium",
+  "question": "Sea f(x) = 2x² − 3x + 1. ¿Cuál es el valor de f(−2)?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "3"
+   },
+   {
+    "id": "B",
+    "text": "11"
+   },
+   {
+    "id": "C",
+    "text": "15"
+   },
+   {
+    "id": "D",
+    "text": "−1"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "f(−2) = 2·4 + 6 + 1 = 15.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-005",
+  "subject": "m1",
+  "topic": "Álgebra y funciones",
+  "difficulty": "medium",
+  "question": "Una recta pasa por los puntos (1, 2) y (3, 8). ¿Cuál es su ecuación?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "y = 2x"
+   },
+   {
+    "id": "B",
+    "text": "y = x + 1"
+   },
+   {
+    "id": "C",
+    "text": "y = 3x + 1"
+   },
+   {
+    "id": "D",
+    "text": "y = 3x − 1"
+   }
+  ],
+  "correctAnswer": "D",
+  "explanation": "Pendiente (8−2)/(3−1) = 3; y − 2 = 3(x − 1) → y = 3x − 1.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-006",
+  "subject": "m1",
+  "topic": "Geometría",
+  "difficulty": "easy",
+  "question": "Un triángulo rectángulo tiene catetos de 6 cm y 8 cm. ¿Cuánto mide su hipotenusa?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "10 cm"
+   },
+   {
+    "id": "B",
+    "text": "12 cm"
+   },
+   {
+    "id": "C",
+    "text": "14 cm"
+   },
+   {
+    "id": "D",
+    "text": "48 cm"
+   }
+  ],
+  "correctAnswer": "A",
+  "explanation": "Pitágoras: √(36 + 64) = 10.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-007",
+  "subject": "m1",
+  "topic": "Geometría",
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un círculo de 10 cm de diámetro?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "10π cm²"
+   },
+   {
+    "id": "B",
+    "text": "50π cm²"
+   },
+   {
+    "id": "C",
+    "text": "25π cm²"
+   },
+   {
+    "id": "D",
+    "text": "100π cm²"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "Radio 5 cm; área = π·5² = 25π cm².",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-008",
+  "subject": "m1",
+  "topic": "Probabilidad y estadística",
+  "difficulty": "easy",
+  "question": "Se lanza un dado justo de 6 caras. ¿Cuál es la probabilidad de obtener un número par mayor que 2?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "1/6"
+   },
+   {
+    "id": "B",
+    "text": "1/2"
+   },
+   {
+    "id": "C",
+    "text": "1/3"
+   },
+   {
+    "id": "D",
+    "text": "2/3"
+   }
+  ],
+  "correctAnswer": "C",
+  "explanation": "Casos favorables: 4 y 6 → 2/6 = 1/3.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-009",
+  "subject": "m1",
+  "topic": "Probabilidad y estadística",
+  "difficulty": "medium",
+  "question": "Los datos 4, 6, 6, 8, 11 tienen media y mediana respectivamente iguales a:",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "Media 7; mediana 6"
+   },
+   {
+    "id": "B",
+    "text": "Media 6; mediana 7"
+   },
+   {
+    "id": "C",
+    "text": "Media 7; mediana 8"
+   },
+   {
+    "id": "D",
+    "text": "Media 8; mediana 6"
+   }
+  ],
+  "correctAnswer": "A",
+  "explanation": "Media = 35/5 = 7. Mediana: dato central ordenado = 6.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ },
+ {
+  "id": "M1-010",
+  "subject": "m1",
+  "topic": "Probabilidad y estadística",
+  "difficulty": "hard",
+  "question": "En un grupo hay 3 mujeres y 2 hombres. Se eligen 2 personas al azar, sin reemplazo. ¿Cuál es la probabilidad de que ambas sean mujeres?",
+  "alternatives": [
+   {
+    "id": "A",
+    "text": "3/5"
+   },
+   {
+    "id": "B",
+    "text": "9/25"
+   },
+   {
+    "id": "C",
+    "text": "1/2"
+   },
+   {
+    "id": "D",
+    "text": "3/10"
+   }
+  ],
+  "correctAnswer": "D",
+  "explanation": "C(3,2)/C(5,2) = 3/10.",
+  "source": "original",
+  "sourceDetail": "Pregunta original de Dominga",
+  "admissionYear": 2026,
+  "syllabusVersion": "2026"
+ }
+]
